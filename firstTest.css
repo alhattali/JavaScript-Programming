@@ -1,0 +1,15 @@
+.btn{
+    height: 50px;
+    width: 100 px;
+    background-color: brown;
+    color:beige;
+    border-radius: 15 px;
+    font-size: 1.5 em;
+}
+.box{
+    height: 100px;
+    width: 100 px;
+    text-align: center;
+    border: ipx solid black;
+    display: inline-block;
+}
